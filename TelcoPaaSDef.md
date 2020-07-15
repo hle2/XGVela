@@ -1,7 +1,7 @@
 # XGVela Telco PaaS Definition
 |#|Functions|Description|Software (project name & version)|Telco enhancement point|Priority|Tag|Committer|
 |---|---|---|---|---|---|---|---|
-|1|Container||||Infrastructure||
+|1|Container|Container should support management for memory, CPU, topology and HW accelerator; container runtime services should support Open Container Initiative (OCI) runtime spec.|||Infrastructure||
 |2|Orchestration||||Infrastructure||
 |3|Storage||||Infrastructure||
 |4|Network||||Infrastructure||
